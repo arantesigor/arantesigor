@@ -88,6 +88,14 @@ Sou o Igor Gabriel, nasci em 2005 e sou de São Paulo. Fiz o ensino médio na ET
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
 />
+<img 
+    align="left" 
+    alt="figma" 
+    title="figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
 
 <br/>
 <br/>
